@@ -1,0 +1,6 @@
+I:\AMIKOM\sem 2\Pemrograman\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+I:\AMIKOM\sem 2\Pemrograman\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+I:\AMIKOM\sem 2\Pemrograman\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojAssemblyReference.cache
+I:\AMIKOM\sem 2\Pemrograman\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.CoreCompileInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+I:\AMIKOM\sem 2\Pemrograman\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
